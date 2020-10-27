@@ -1,0 +1,3 @@
+echo 'Enter the port number to listen to eg 80'
+read pt
+nc -vv -l -p $pt 
