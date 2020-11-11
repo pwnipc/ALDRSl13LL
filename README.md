@@ -1,5 +1,4 @@
 # All Linux Distro's Reverse Shell (ALDRSl13LL)
-
 This is a simple reverse shell with both the attacker's code and the exploit.
 
 to execute, run the attack code on the attackers machine
