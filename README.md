@@ -13,6 +13,11 @@ then enter the attacker's ip address and the port that you want to connect on th
 
 if the above fails, simply run bash exploit.
 
+to create persistence in the victim, ru persistence once
+ chmod +x persistence
+ ./persistence   altenatively use bash persistence
+ 
+ edit all the required fields ie <attacker's ip address> and <attacker's listenig port>
 
 
 
